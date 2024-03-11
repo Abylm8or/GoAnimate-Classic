@@ -6,3 +6,6 @@
 
 
 https://github.com/AbylAnim8z/GoAnimate-Classic-master
+
+
+# I might be trashing this project soon.
